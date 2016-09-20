@@ -1,0 +1,9 @@
+.side-sub-menu {
+	display: none;
+}
+.mc-sub-menu {
+	display: none;
+}
+.active {
+	background-color: gray;
+}
